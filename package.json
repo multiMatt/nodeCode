@@ -1,0 +1,15 @@
+{
+  "name": "chalkstuff",
+  "version": "1.0.0",
+  "description": "Here is my chalk hw",
+  "main": "index.js",
+  "dependencies": {
+    "chalk": "^2.3.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "mg",
+  "license": "ISC"
+}
